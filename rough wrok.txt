@@ -1,0 +1,18 @@
+twilio account
+
+srinathbotsa@
+
+p: Srinathtwilio98*
+
+
+---
+
+Twilio number- +1 415 523 8886
+
+account sid: ACb5aacf63b90274efd7ab7d4d4c05c824
+
+auth token: 63ce7fb184563de7c57fcc277d96fdeb
+
+stockmarket api:  ea310ddfc6e97eb528398dad0b6b0d67
+
+ https://8a9827beefad.ngrok.io
